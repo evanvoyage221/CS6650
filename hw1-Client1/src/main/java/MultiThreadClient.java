@@ -17,7 +17,7 @@ public class MultiThreadClient {
 
     public static void main(String[] args) throws InterruptedException {
         //urlBase = "http://localhost:8080/hw1_war_exploded";
-        urlBase = "http://18.236.134.109:8080/hw1_war";
+        urlBase = "http://34.221.182.45:8080/hw1_war";
         successReq = new AtomicInteger(0);
         failReq = new AtomicInteger(0);
         actions = new LinkedBlockingQueue<>();
