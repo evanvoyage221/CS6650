@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6f00cee-177e-4b35-9c8d-46f1724b124d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../hw-2/Consumer/.idea/artifacts/Consumer_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw-2/Consumer/src/main/java/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw-2/Consumer/src/main/java/MultiThreadRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw-2/Consumer/src/main/java/model/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw-2/Consumer/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw-2/hw2-serverlet/hw1-serverlet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw-2/hw2-serverlet/src/main/java/Model/ChannelPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw-2/hw2-serverlet/target/classes/Model/ChannelPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw-2/hw2-serverlet/target/classes/TwinderServlet$ChannelPoolFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw1-serverlet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw-2/Consumer2/.idea/artifacts/Consumer2_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/Consumer/src/main/java/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/Consumer/src/main/java/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/Consumer/src/main/java/MultiThreadRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/Consumer/src/main/java/MultiThreadRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/Consumer/target/classes/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/Consumer/target/classes/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/Consumer/target/classes/MultiThreadRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/Consumer/target/classes/MultiThreadRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/Consumer2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/Consumer2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/Consumer2/src/main/java/Consumer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/Consumer2/src/main/java/Consumer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/Consumer2/src/main/java/MultiThreadRunner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/Consumer2/src/main/java/MultiThreadRunner2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/Consumer2/target/classes/Consumer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/Consumer2/target/classes/Consumer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/Consumer2/target/classes/MultiThreadRunner2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/Consumer2/target/classes/MultiThreadRunner2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/hw2-serverlet/out/artifacts/hw1_war/hw1_war.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/hw2-serverlet/out/artifacts/hw1_war_exploded/WEB-INF/classes/Model/ChannelPool$ChannelPoolFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/hw2-serverlet/out/artifacts/hw1_war_exploded/WEB-INF/classes/Model/ChannelPool$ChannelPoolFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/hw2-serverlet/out/artifacts/hw1_war_exploded/WEB-INF/classes/Model/ChannelPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/hw2-serverlet/out/artifacts/hw1_war_exploded/WEB-INF/classes/Model/ChannelPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/hw2-serverlet/src/main/java/Model/ChannelPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/hw2-serverlet/src/main/java/Model/ChannelPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/hw2-serverlet/target/classes/Model/ChannelPool$ChannelPoolFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/hw2-serverlet/target/classes/Model/ChannelPool$ChannelPoolFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-2/hw2-serverlet/target/classes/Model/ChannelPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-2/hw2-serverlet/target/classes/Model/ChannelPool.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MultiThreadClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MultiThreadClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MultiThreadClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MultiThreadClient.class" afterDir="false" />
@@ -116,7 +121,8 @@
       <workItem from="1675212665016" duration="37321000" />
       <workItem from="1675747031222" duration="9000" />
       <workItem from="1675747132326" duration="356000" />
-      <workItem from="1677136532917" duration="9135000" />
+      <workItem from="1677136532917" duration="27125000" />
+      <workItem from="1677736878565" duration="2143000" />
     </task>
     <servers />
   </component>

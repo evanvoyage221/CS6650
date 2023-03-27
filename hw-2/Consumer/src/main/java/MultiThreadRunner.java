@@ -8,7 +8,7 @@ import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeoutException;
 
 public class MultiThreadRunner {
-    private static final int numOfThread = 300;
+    private static final int numOfThread = 200;
     private static Connection connection;
     private static ConcurrentHashMap<String, ArrayList<Integer>> record = new ConcurrentHashMap<>();
     //private static String userId = "12345";
@@ -21,14 +21,20 @@ public class MultiThreadRunner {
         System.out.println("*********************************************************");
 
         //latch1 = new CountDownLatch(numOfThread);
-
-        ConnectionFactory factory = new ConnectionFactory();
-        //factory.setHost("localhost");
-        factory.setHost("35.91.156.178");
-        connection = factory.newConnection();
+//
+//        ConnectionFactory factory = new ConnectionFactory();
+//        factory.setHost("localhost");
+//        //factory.setHost("54.188.105.196");
+//        connection = factory.newConnection();
 
 
         for (int i = 0; i < numOfThread; i++) {
+
+            ConnectionFactory factory = new ConnectionFactory();
+            //factory.setHost("localhost");
+            factory.setHost("52.26.224.102");
+            connection = factory.newConnection();
+
             Consumer consumer = new Consumer(record,connection);
             Thread consumer1Thread = new Thread(consumer);
             consumer1Thread.start();

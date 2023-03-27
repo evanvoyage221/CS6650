@@ -23,7 +23,7 @@ public class ChannelPool {
     public ChannelPool() throws IOException, TimeoutException {
         ConnectionFactory connectionFactory = new ConnectionFactory();
         //connectionFactory.setHost("localhost");
-        connectionFactory.setHost("35.91.156.178");
+        connectionFactory.setHost("52.26.224.102");
 
         try{
             this.connection = connectionFactory.newConnection();
@@ -35,7 +35,6 @@ public class ChannelPool {
     }
 
     public boolean sendToQueue(String msg) throws Exception{
-        UUID idKey = UUID.randomUUID();//idempotency key
         try{
             Channel channel = channelPool.borrowObject();
             channel.queueDeclare("TwinderConsumer1",true,false,false,null);

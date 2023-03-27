@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6f00cee-177e-4b35-9c8d-46f1724b124d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../hw-2/Consumer2/.idea/artifacts/Consumer2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/src/main/java/DynamoDBService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/target/classes/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/.idea/artifacts/Servlet3_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/Servlet3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/src/main/java/Model/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/src/main/java/Model/ChannelPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/src/main/java/TwinderMatchesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/src/main/java/TwinderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/src/main/java/TwinderStatsServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../servlet3/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/Consumer/src/main/java/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/Consumer/src/main/java/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/Consumer/src/main/java/MultiThreadRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/Consumer/src/main/java/MultiThreadRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/Consumer/target/classes/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/Consumer/target/classes/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/Consumer/target/classes/MultiThreadRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/Consumer/target/classes/MultiThreadRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/Consumer2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/Consumer2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/Consumer2/src/main/java/Consumer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/Consumer2/src/main/java/Consumer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/Consumer2/src/main/java/MultiThreadRunner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/Consumer2/src/main/java/MultiThreadRunner2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/Consumer2/target/classes/Consumer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/Consumer2/target/classes/Consumer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/Consumer2/target/classes/MultiThreadRunner2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/Consumer2/target/classes/MultiThreadRunner2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/hw2-Client1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/hw2-Client1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/hw2-serverlet/out/artifacts/hw1_war/hw1_war.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/hw2-serverlet/out/artifacts/hw1_war_exploded/WEB-INF/classes/Model/ChannelPool$ChannelPoolFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/hw2-serverlet/out/artifacts/hw1_war_exploded/WEB-INF/classes/Model/ChannelPool$ChannelPoolFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/hw2-serverlet/out/artifacts/hw1_war_exploded/WEB-INF/classes/Model/ChannelPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/hw2-serverlet/out/artifacts/hw1_war_exploded/WEB-INF/classes/Model/ChannelPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/hw2-serverlet/src/main/java/Model/ChannelPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/hw2-serverlet/src/main/java/Model/ChannelPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/hw2-serverlet/target/classes/Model/ChannelPool$ChannelPoolFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/hw2-serverlet/target/classes/Model/ChannelPool$ChannelPoolFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw-2/hw2-serverlet/target/classes/Model/ChannelPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw-2/hw2-serverlet/target/classes/Model/ChannelPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw1-Client1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1-Client1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw1-Client1/src/main/java/MultiThreadClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1-Client1/src/main/java/MultiThreadClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hw1-Client1/target/classes/MultiThreadClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../hw1-Client1/target/classes/MultiThreadClient.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L6ssfc4CxdN5KnKLrP6E1RF0sZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/evangeline/Desktop/6650git/CS6650/hw3/Client",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Model" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MultiThreadClient">
+    <configuration name="MultiThreadClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreadClient" />
+      <module name="hw1-client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThreadClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreadClient" />
+      <module name="hw1-Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleThreadClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleThreadClient" />
+      <module name="hw1-Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwipeApiExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwipeApiExample" />
+      <module name="hw1-Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MultiThreadClient" />
+        <item itemvalue="Application.SingleThreadClient" />
+        <item itemvalue="Application.SwipeApiExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6f00cee-177e-4b35-9c8d-46f1724b124d" name="Changes" comment="" />
+      <created>1675203076952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675203076952</updated>
+      <workItem from="1675203078247" duration="4948000" />
+      <workItem from="1675212665016" duration="37321000" />
+      <workItem from="1675747031222" duration="9000" />
+      <workItem from="1675747132326" duration="356000" />
+      <workItem from="1678948178967" duration="41000" />
+      <workItem from="1679549953431" duration="1401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

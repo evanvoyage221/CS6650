@@ -34,12 +34,12 @@ public class Consumer implements Runnable{
                 DeliverCallback deliverCallback = (consumerTag, delivery) -> {
                     String message = new String(delivery.getBody(), StandardCharsets.UTF_8);
                     System.out.println(" [*] Received '" + message + "'" + "\n" + "Now start processing..");
-                        processMsg(message);
+                        //processMsg(message);
                         System.out.println("[x] Done!");
-                        channel.basicAck(delivery.getEnvelope().getDeliveryTag(), false);
+                        //channel.basicAck(delivery.getEnvelope().getDeliveryTag(), false);
 
                 };
-                channel.basicConsume(QUEUE_NAME, false, deliverCallback, consumerTag -> { });
+                channel.basicConsume(QUEUE_NAME, true, deliverCallback, consumerTag -> { });
                 System.out.println("finishing basic consuming");
                 }catch (IOException e) {
                 e.printStackTrace();

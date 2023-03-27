@@ -17,7 +17,10 @@ public class MultiThreadClient {
 
     public static void main(String[] args) throws InterruptedException {
         //urlBase = "http://localhost:8080/hw1_war_exploded";
-        urlBase = "http://34.221.182.45:8080/hw1_war";
+        //urlBase = "http://35.162.232.94:8080/hw1_war";
+        urlBase = "http://lb-sevlet-1252734141.us-west-2.elb.amazonaws.com/hw1_war";
+        //urlBase = "http://MyLB-2075889409.us-west-2.elb.amazonaws.com/Server_war";
+
         successReq = new AtomicInteger(0);
         failReq = new AtomicInteger(0);
         actions = new LinkedBlockingQueue<>();
@@ -48,7 +51,8 @@ public class MultiThreadClient {
         System.out.println("*********************************************************");
         System.out.println("Number of successful requests: " + successReq.get());
         System.out.println("Number of failed requests: " + failReq.get());
-        System.out.println("Total wall time: " + wallTime);
+        //System.out.println("Total wall time: " + wallTime);
         System.out.println("Throughput: " + (int)((successReq.get()) / (double)(wallTime / 1000)) + " requests/second");
+        //System.out.println("Throughput: 4378 requests/second");
     }
 }
